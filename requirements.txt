@@ -1,0 +1,4 @@
+# FastLoop Trader Requirements
+# This project uses primarily Python standard library
+# Additional optional dependencies:
+# - tradejournal (for trade journal logging integration)
